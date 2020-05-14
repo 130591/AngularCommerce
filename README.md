@@ -1,2 +1,0 @@
-# AngularCommerce
-Created with CodeSandbox
